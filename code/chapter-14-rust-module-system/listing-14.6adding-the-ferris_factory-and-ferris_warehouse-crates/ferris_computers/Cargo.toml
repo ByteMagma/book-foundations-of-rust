@@ -1,0 +1,8 @@
+[workspace]
+members = [
+    "ferris_office",
+    "ferris_core", 
+    "ferris_factory", 
+    "ferris_warehouse"
+]
+

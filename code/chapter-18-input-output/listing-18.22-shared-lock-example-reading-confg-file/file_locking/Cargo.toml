@@ -1,0 +1,9 @@
+[package]
+name = "file_locking"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+chrono = "0.4"
+fs2 = "0.4"
+

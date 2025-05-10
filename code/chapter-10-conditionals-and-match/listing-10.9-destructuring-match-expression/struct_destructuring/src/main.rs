@@ -1,0 +1,12 @@
+struct Point {
+    x: i32,
+    y: i32,
+}
+fn main() {
+    let p = Point { x: 3, y: 7 };
+    match p {
+        Point { x, y: 0 } => println!("On the x-axis at {}", x),
+        Point { x: 0, y } => println!("On the y-axis at {}", y),
+        Point { x, y } => println!("Point at ({}, {})", x, y),
+    }
+}
