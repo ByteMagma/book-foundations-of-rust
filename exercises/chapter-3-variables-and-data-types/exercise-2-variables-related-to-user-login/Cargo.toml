@@ -1,0 +1,6 @@
+[package]
+name = "exercise-2-variables-related-to-user-login"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
