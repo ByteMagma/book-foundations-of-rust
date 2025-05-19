@@ -9,6 +9,9 @@
     There are other ways to perform this operation, but this is the most
     straightforward way to do it in this case.
 
+   Note, your choices for data types might vary slightly, but for things
+    like the tax rate, price and total cost you should use floating point
+    numbers. For the quantity, you should use an unsigned integer type.
 */
 fn main() {
     const TAX_RATE: f32 = 0.08;
