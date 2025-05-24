@@ -1,0 +1,6 @@
+[package]
+name = "exercise_2_unwrap_if_let"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
