@@ -1,0 +1,7 @@
+[package]
+name = "exercise_4_walk_directory"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+walkdir = "2.3"
