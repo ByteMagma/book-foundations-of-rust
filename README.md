@@ -8,4 +8,4 @@ All written content in this repository — including explanations, exercises, qu
 
 You are welcome to copy, share, and reference the content for non-commercial educational use, but you may not modify or sell it.
 
-For licensing questions or commercial usage requests, please contact [greg@bytemagma.com](mailto:greg@bytemagma.com).
+For licensing questions or commercial usage requests, please contact [greglafrance007@gmail.com](mailto:greglafrance007@gmail.com).
